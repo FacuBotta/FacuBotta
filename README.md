@@ -5,5 +5,4 @@ Every time I start a new project it's easy for me to lose track of time and spen
 
 - 🔭 I’m currently studying in ADRAR Centre de Formation.
 - 🌱 I’m currently learning CSS, JavaScript, HTML, React, PHP, and more 😄 
-- 👯 I’m looking for a Stage
 - ⚡ I love the code ✨✨
