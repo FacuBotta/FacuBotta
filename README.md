@@ -1,8 +1,13 @@
 # Hi World!! 👋
 
-I am currently a student in Web development. I don't have a lot of experience at the moment but I am an enthusiastic student. 
-Every time I start a new project it's easy for me to lose track of time and spend hours and hours in front of the computer until I finish it 😄 ⚡⚡⚡⚡.
+I am currently a recent graduate in Web development from ADRAR Centre de Formation in Montpellier, France. While I may not have extensive experience yet, I am an enthusiastic learner.
 
-- 🔭 I’m currently studying in ADRAR Centre de Formation.
-- 🌱 I’m currently learning CSS, JavaScript, HTML, React, PHP, and more 😄 
-- ⚡ I love the code ✨✨
+Every time I start a new project, I easily lose track of time, spending hours and hours in front of the computer until it's completed 😄 ⚡⚡⚡⚡.
+
+- 🔭 I recently obtained my diploma in Web Development from ADRAR Centre de Formation in Montpellier, France.
+- 🌱 I have acquired solid foundations in HTML, CSS, PHP, React, Node.js, and more 😄 
+- ⚡ I love coding and constantly strive to improve my skills and explore new languages and frameworks ✨✨
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/facundo-botta/)!
+
+
