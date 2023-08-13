@@ -10,4 +10,4 @@ Every time I start a new project, I easily lose track of time, spending hours an
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/facundo-botta/)!
 
-<a href="https://app.daily.dev/facundobotta"><img src="https://github.com/FacuBotta/FacuBotta/blob/main/devcard.svg" width="200" alt="facundo botta's Dev Card"/></a>
+<a href="https://app.daily.dev/facundobotta"><img src="https://github.com/FacuBotta/FacuBotta/blob/main/devcard.svg" width="300" alt="facundo botta's Dev Card"/></a>
