@@ -28,5 +28,3 @@ Every time I start a new project, I easily lose track of time, spending hours an
 
 
 > Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/facundo-botta/)!
-
-> You can also see my posts on [Dev Blog](https://dev.to/facubotta)!
