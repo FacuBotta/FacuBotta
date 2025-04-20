@@ -1,7 +1,12 @@
 # Hi World!! 👋
 
 ### About me 😊
-Hello! I'm a student in web development. Currently, I'm studying at ADRAR training center in Montpellier. I've done small freelance jobs and I'm continuously learning! Right now, I'm focusing on React and Node.js, but I have solid knowledge in HTML, CSS, and SQL. I also have knowledge in PHP, Python, and Arduino. Additionally, I'm always testing out new technologies like Tailwind, Astro, Vite, Next.js, etc! 
+Hello! I'm Facu, a junior web developer based in Montpellier, France.
+I'm passionate about JavaScript and love exploring new frameworks and tools. I have strong skills in HTML, CSS, and SQL, and I'm currently focused on building full-stack applications using React and Node.js.
+
+I’ve worked on small freelance projects and I'm always studying and experimenting with new technologies like Tailwind CSS, Vite, Astro, and Next.js. I also have experience with PHP, Python, and Arduino.
+
+I’m constantly learning and pushing my skills forward!
 
 Every time I start a new project, I easily lose track of time, spending hours and hours in front of the computer until it's completed 😄 ⚡⚡⚡⚡.
 ### My stack! (It isn't all in my pocket but I'm always learning about)
